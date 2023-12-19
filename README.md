@@ -50,9 +50,6 @@ We welcome contributions to enhance the Pragyaa 2023 website. If you would like 
 4. Push the changes to your forked repository: `git push origin feature/your-feature`
 5. Submit a pull request outlining the changes you have made.
 
-## License
-
-The Pragyaa 2023 website project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 ## Contact
 
