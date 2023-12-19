@@ -40,6 +40,13 @@ To get a local copy of the Pragyaa 2023 website up and running on your machine, 
 2. Navigate to the project directory: `cd pragyaa-2023`
 3. Open the `index.html` file in your preferred web browser.
 
+## Pics of Website
+
+<img src="./assets/img/readme1.png">
+<img src="./assets/img/readme2.png">
+<img src="./assets/img/readme3.png">
+<img src="./assets/img/readme4.png">
+
 ## Contributing
 
 We welcome contributions to enhance the Pragyaa 2023 website. If you would like to contribute, please follow these guidelines:
